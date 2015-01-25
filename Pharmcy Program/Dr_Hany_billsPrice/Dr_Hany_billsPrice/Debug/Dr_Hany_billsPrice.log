@@ -1,0 +1,28 @@
+﻿Build started 23/06/2014 11:42:15 م.
+     1>Project "D:\Dr_Hany_billsPrice\Dr_Hany_billsPrice\Dr_Hany_billsPrice.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Bakeer.cpp FarmaOverseas.cpp Home.cpp IbnSena.cpp UoruFarma.cpp Welcome.cpp el_Motehada.cpp
+         Bakeer.cpp
+         FarmaOverseas.cpp
+         Home.cpp
+         IbnSena.cpp
+         UoruFarma.cpp
+         Welcome.cpp
+         el_Motehada.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dr_Hany_billsPrice\Debug\Dr_Hany_billsPrice.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Dr_Hany_billsPrice.Bakeer.resources /ASSEMBLYRESOURCE:Debug\Dr_Hany_billsPrice.el_Motehada.resources /ASSEMBLYRESOURCE:Debug\Dr_Hany_billsPrice.el_rabe3.resources /ASSEMBLYRESOURCE:Debug\Dr_Hany_billsPrice.FarmaOverseas.resources /ASSEMBLYRESOURCE:Debug\Dr_Hany_billsPrice.Home.resources /ASSEMBLYRESOURCE:Debug\Dr_Hany_billsPrice.IbnSena.resources /ASSEMBLYRESOURCE:Debug\Dr_Hany_billsPrice.UoruFarma.resources /ASSEMBLYRESOURCE:Debug\Dr_Hany_billsPrice.Welcome.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Dr_Hany_billsPrice\Debug\Dr_Hany_billsPrice.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Bakeer.obj
+         Debug\el_Motehada.obj
+         Debug\el_rabe3.obj
+         Debug\FarmaOverseas.obj
+         Debug\Home.obj
+         Debug\IbnSena.obj
+         Debug\UoruFarma.obj
+         Debug\Welcome.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Dr_Hany_billsPrice.vcxproj -> D:\Dr_Hany_billsPrice\Debug\Dr_Hany_billsPrice.exe
+     1>Done Building Project "D:\Dr_Hany_billsPrice\Dr_Hany_billsPrice\Dr_Hany_billsPrice.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:35.78
